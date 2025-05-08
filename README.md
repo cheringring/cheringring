@@ -20,8 +20,10 @@
 </div>
 
 <br>
-</div>
+
+
 ## 💫 About Me
+</div>
 
 ```
 ### 🗂️ /home/cheringring
