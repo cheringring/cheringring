@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Che%20eun%20&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20✨&descAlignY=58&descAlign=62)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Chee%20Un%20Kwon&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20✨&descAlignY=58&descAlign=62)
 
 ### 🌸 Welcome to my creative coding space! 🌸
 
@@ -21,7 +21,7 @@
 <div align="center">
   
   ### 💻 Languages & Tools
-  ![C](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/eh4d0dnic4n1neth3fui.png)
+  ![TypeScript](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/zxvggzkz5lmxhwgrwssc.png)
   ![Java](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/kxnxhg1cqg42dcxk4lex.png)
   ![Python](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/zxvggzkz5lmxhwgrwssc.png)
   ![HTML](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/qgdiv5ctkcneujidjuw1.png)
@@ -30,7 +30,6 @@
   ![Linux](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/zadtxqqv5gm3RHE7WpKw.png)
   ![Apache Tomcat](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/puvjgd8vqjf5kjzxkz8h.png)
   ![Git](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/xf9bevlhmghc1bhi0f0l.png)
-  ![GitHub](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/m4oad4rbf65fjszx0did.png)
   ![VSCode](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566915837/noticon/pdl5qhkqxk5mnxgrmcgm.png)
   
   ### 🌈 Currently Learning
@@ -54,7 +53,7 @@
 <br>
 
 ## 🌟 Projects
-- 📚 **42 Projects**
+- 📚 **42Seoul Projects**
   - Libft: Custom C library implementation
   - More coming soon...
 
