@@ -24,7 +24,8 @@
 
 ## 💫 About Me
 
-??
+[??
+](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1669699657/noticon/a15oexdakj1rcqx29ul7.gif)
 
 <br>
 
