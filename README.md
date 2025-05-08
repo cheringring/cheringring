@@ -1,8 +1,5 @@
 <div align="center">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cheringring/cheringring/main/asset/flowers-petals.gif" width="95%">
-
   
   ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&animation=fadeIn&fontAlignY=50&customColorList=DBE2FF,B5DEFF,C8E7FF,E6E6FA)
 <br><br>
