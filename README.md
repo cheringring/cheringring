@@ -48,11 +48,12 @@
   ![MariaDB](https://img.shields.io/badge/MariaDB-F0F8FF?style=for-the-badge&logo=mariadb&logoColor=4169E1)
   ![Spring](https://img.shields.io/badge/Spring-F0FFF0?style=for-the-badge&logo=spring&logoColor=98FB98)
   
+  ![GitHub](https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=9370DB)
+  ![Git](https://img.shields.io/badge/Git-FFE4E1?style=for-the-badge&logo=git&logoColor=FF69B4)
+
   ![Linux](https://img.shields.io/badge/Linux-FFFACD?style=for-the-badge&logo=linux&logoColor=DEB887)
   ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-FAFAD2?style=for-the-badge&logo=apache-tomcat&logoColor=DEB887)
   
-  ![GitHub](https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=9370DB)
-  ![Git](https://img.shields.io/badge/Git-FFE4E1?style=for-the-badge&logo=git&logoColor=FF69B4)
   ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
