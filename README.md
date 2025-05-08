@@ -91,6 +91,9 @@
   <a href="https://discordapp.com/users/chenoc">
     <img src="https://img.shields.io/badge/Discord:_chenoc-E6E6FA?style=flat-square&logo=Discord&logoColor=5865F2"/>
   </a>
+
+  
+<div align="center">  
   
 ```
   ______                          __      _______                         
