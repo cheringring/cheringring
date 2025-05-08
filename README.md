@@ -4,7 +4,7 @@
 
 
 
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=cheringring's%20github&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&theme=radical&customColorList=F7CFD8,E2D1F9,DDA0DD&blur=5&fontFamily=Cookie)
+ ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=cheringring's%20github&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&theme=radical&customColorList=F7CFD8,E2D1F9,DDA0DD&blur=5&fontAlign=center&font=Cookie)
 
 
 <br>
