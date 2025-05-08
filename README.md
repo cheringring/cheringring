@@ -3,6 +3,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&animation=fadeIn&fontAlignY=50&customColorList=DBE2FF,B5DEFF,C8E7FF,E6E6FA)
 
+ <img src="https://raw.githubusercontent.com/kyechan99/kyechan99/master/assets/sakura.gif" width="100%" />
+
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CFD8&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Creative+Developer+%F0%9F%8C%B8;Welcome+to+my+GitHub+%E2%9C%A8;Let's+grow+together+%F0%9F%8C%B1)](https://git.io/typing-svg)
   
 </div>
