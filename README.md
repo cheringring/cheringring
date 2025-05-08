@@ -20,31 +20,28 @@
   
   ### 💻 Languages & Tools
   
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-99B433?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![C](https://img.shields.io/badge/C-E6E6FA?style=for-the-badge&logo=c&logoColor=9370DB)
+  ![C++](https://img.shields.io/badge/C++-FFE4E1?style=for-the-badge&logo=c%2B%2B&logoColor=DB7093)
+  ![C#](https://img.shields.io/badge/C%23-E0FFFF?style=for-the-badge&logo=c-sharp&logoColor=40E0D0)
+  ![Java](https://img.shields.io/badge/Java-FFDAB9?style=for-the-badge&logo=java&logoColor=FF8C69)
+  ![Python](https://img.shields.io/badge/Python-E6E6FA?style=for-the-badge&logo=python&logoColor=9370DB)
+  ![HTML5](https://img.shields.io/badge/HTML5-FFE4E1?style=for-the-badge&logo=html5&logoColor=FF69B4)
   
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-FFF0F5?style=for-the-badge&logo=oracle&logoColor=FFB6C1)
+  ![MySQL](https://img.shields.io/badge/MySQL-E0FFFF?style=for-the-badge&logo=mysql&logoColor=4169E1)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-F0F8FF?style=for-the-badge&logo=mariadb&logoColor=4169E1)
+  ![Spring](https://img.shields.io/badge/Spring-F0FFF0?style=for-the-badge&logo=spring&logoColor=98FB98)
   
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FFFACD?style=for-the-badge&logo=linux&logoColor=DEB887)
+  ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-FAFAD2?style=for-the-badge&logo=apache-tomcat&logoColor=DEB887)
   
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=9370DB)
+  ![Git](https://img.shields.io/badge/Git-FFE4E1?style=for-the-badge&logo=git&logoColor=FF69B4)
   
   ### 🌈 Currently Learning
   
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-E0FFFF?style=for-the-badge&logo=flutter&logoColor=40E0D0)
+  ![Flask](https://img.shields.io/badge/Flask-F0F8FF?style=for-the-badge&logo=flask&logoColor=4169E1)
 
 </div>
 
