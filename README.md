@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20✨&descAlignY=58&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20✨&descAlignY=58&descAlign=62&customColorList=0,2,11,22,33)
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A4EC&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Creative+Developer+%F0%9F%8C%B8;Welcome+to+my+GitHub+%E2%9C%A8;Let's+grow+together+%F0%9F%8C%B1)](https://git.io/typing-svg)
   
@@ -52,8 +52,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=cheringring&show_icons=true&theme=radical&hide_border=true&title_color=ff66c4&text_color=ffffff&icon_color=ff66c4&bg_color=282a36" alt="cheringring's GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheringring&layout=compact&theme=radical&hide_border=true&title_color=ff66c4&text_color=ffffff&icon_color=ff66c4&bg_color=282a36&hide=jupyter%20notebook" alt="Top Languages" />
 
