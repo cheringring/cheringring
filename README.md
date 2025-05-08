@@ -125,8 +125,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cheringring)](https://velog.io/@cheringring)
 
-## 💎 Let's Connect!
-
+## Let's Connect! <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1669699657/noticon/a15oexdakj1rcqx29ul7.gif" width="40" height="40" alt="42">
 
 
 <div align="center">
