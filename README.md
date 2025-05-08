@@ -102,7 +102,10 @@
 
 ## Projects 
 
-??
+
+### 42 Projects
+- [**🛠️ Libft**](https://github.com/cheringring/Libft) - C library implementation
+  ![Progress](https://progress-bar.dev/100/?title=completed)
 
 <br>
 
