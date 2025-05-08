@@ -4,7 +4,6 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A4EC&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Creative+Developer+%F0%9F%8C%B8;Welcome+to+my+GitHub+%E2%9C%A8;Let's+grow+together+%F0%9F%8C%B1)](https://git.io/typing-svg)
   
-### 🌸 Welcome to my creative coding space! 🌸
 
 </div>
 
