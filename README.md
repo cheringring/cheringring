@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Chee%20Un%20Kwon&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20✨&descAlignY=58&descAlign=62)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20✨&descAlignY=58&descAlign=62)
 
 ### 🌸 Welcome to my creative coding space! 🌸
 
@@ -57,5 +57,10 @@
   <a href="https://velog.io/@cheringring">
     <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
+  </div>
+
+<div align="center">
+  
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
   
 </div>
