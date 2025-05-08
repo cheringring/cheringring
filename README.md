@@ -41,6 +41,7 @@
   ![Java](https://img.shields.io/badge/Java-FFDAB9?style=for-the-badge&logo=java&logoColor=FF8C69)
   ![Python](https://img.shields.io/badge/Python-E6E6FA?style=for-the-badge&logo=python&logoColor=9370DB)
   ![HTML5](https://img.shields.io/badge/HTML5-FFE4E1?style=for-the-badge&logo=html5&logoColor=FF69B4)
+  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
   
   ![Oracle](https://img.shields.io/badge/Oracle-FFF0F5?style=for-the-badge&logo=oracle&logoColor=FFB6C1)
   ![MySQL](https://img.shields.io/badge/MySQL-E0FFFF?style=for-the-badge&logo=mysql&logoColor=4169E1)
@@ -68,6 +69,12 @@
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheringring&layout=compact&theme=radical&hide_border=true&title_color=ff66c4&text_color=ffffff&icon_color=ff66c4&bg_color=282a36&hide=jupyter%20notebook" alt="Top Languages" />
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheringring&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=cheringring&theme=radical)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cheringring&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
