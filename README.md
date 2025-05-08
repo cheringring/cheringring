@@ -6,8 +6,6 @@
 
   <br><br>
 <div style="margin: 40px 0;">
-<!--상단레이스-->
-  <img src="https://raw.githubusercontent.com/cheringring/cheringring/main/asset/pngwing1.com.png" width="95%">
 
 <!--제목-->
   ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=cheringring's%20github&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=&descAlignY=51&descAlign=center&rotate=0&stroke=FFB0B0&strokeWidth=1)
