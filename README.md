@@ -92,9 +92,7 @@
     <img src="https://img.shields.io/badge/Discord:_chenoc-E6E6FA?style=flat-square&logo=Discord&logoColor=5865F2"/>
   </a>
   
-  </div>
-
-  '''
+```
   ______                          __      _______                         
  /      \                        |  \    |       \                        
 |  ▓▓▓▓▓▓\ ______   ______   ____| ▓▓    | ▓▓▓▓▓▓▓\__    __  ______       
@@ -107,6 +105,4 @@
                                                   |  \__| ▓▓              
                                                    \▓▓    ▓▓              
                                                     \▓▓▓▓▓▓               
-
-'''
-  
+```
