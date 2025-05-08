@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/cheringring/cheringring/main/asset/pngwing1.com.png" width="95%">
 
 <!--제목-->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=cheringring's%20github&fontSize=70&fontColor=FFFFFF&animation=blinking&fontAlignY=38&desc=✨%20Welcome%20to%20my%20world%20✨&descAlignY=60&descAlign=center&rotate=0&stroke=FFB0B0&strokeWidth=2)
+ ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=cheringring's%20github&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=50&desc=&descAlignY=51&descAlign=center&rotate=0&stroke=FFB0B0&strokeWidth=1)
 
 <!--하단레이스-->
   <img src="https://raw.githubusercontent.com/cheringring/cheringring/main/asset/pngwing.com.png" width="95%">
