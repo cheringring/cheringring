@@ -100,14 +100,28 @@
 <br>
 
 
-## Projects 
+<h1 align="center">Projects</h1>
 
-
-### [42 Projects] (https://github.com/cheringring/42_Course)
-- [**🛠️ Libft**](https://github.com/cheringring/42_Course/Libft) - C library implementation
-  ![Progress](https://progress-bar.dev/100/?title=completed)
-
-<br>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🛠️ 42 Projects</h3>
+        <a href="https://github.com/cheringring/42_Course">
+          <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white"/>
+        </a>
+        <p>Learning computer science fundamentals at 42 Seoul</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🔧 Libft</h3>
+        <a href="#">
+          <img src="Progress이미지주소"/>
+        </a>
+        <p>C library implementation</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 💎 Let's Connect!
 
