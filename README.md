@@ -2,7 +2,7 @@
 
   
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&fontAlign=center&fontAlignY=50&animation=fadeIn&customColorList=DBE2FF,B5DEFF,C8E7FF,E6E6FA)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&fontAlign=center&fontAlignY=50&animation=fadeIn&customColorList=DBE2FF,B5DEFF,C8E7FF,E6E6FA)
 
 <br>
 
