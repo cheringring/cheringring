@@ -39,6 +39,7 @@
     └── 📚 Learning New Tech
 ```
 
+<div align="center">
 <br>
 
 ## 🛠 Tech Stack 
