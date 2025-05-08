@@ -87,7 +87,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570148591/noticon/oim50rpx5bi5gfk0lx2g.svg" width="40" height="40" alt="42">
 
 <div align="center">
   
