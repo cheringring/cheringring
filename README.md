@@ -110,12 +110,12 @@
         <a href="https://github.com/cheringring/42_Course">
           <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white"/>
         </a>
-        <p>Learning computer science fundamentals at 42 Seoul</p>
+        <p>Learning computer science fundamentals at 42 </p>
       </td>
       <td width="50%" align="center">
-        <h3>🔧 Libft</h3>
+        <h3> ??? </h3>
         <a href="#">
-          <img src="Progress이미지주소"/>
+          <img src="??"/>
         </a>
         <p>C library implementation</p>
       </td>
