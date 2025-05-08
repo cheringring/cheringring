@@ -99,7 +99,9 @@
 
 <br>
 
-## 🌟 Projects
+
+## Projects <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1667082967/noticon/slcsuxbx6hniolbyqnuv.png
+" width="40" height="40" alt="42">
 
 ??
 
