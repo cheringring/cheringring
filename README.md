@@ -70,8 +70,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheringring&layout=compact&theme=radical&hide_border=true&title_color=ff66c4&text_color=ffffff&icon_color=ff66c4&bg_color=282a36&hide=jupyter%20notebook" alt="Top Languages" />
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheringring&show_icons=true&theme=radical)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=cheringring&theme=radical)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cheringring&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
