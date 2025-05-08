@@ -113,8 +113,8 @@
         <p>Learning computer science fundamentals at 42 </p>
       </td>
       <td width="50%" align="center">
-        <h3> ??? </h3>
-        <a href="#">
+        <h3> ai-bootcamp </h3>
+        <a href="https://github.com/cheringring/ai-bootcamp">
           <img src="??"/>
         </a>
         <p>C library implementation</p>
