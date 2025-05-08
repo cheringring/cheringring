@@ -1,8 +1,9 @@
 <div align="center">
 
   
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&animation=fadeIn&fontAlignY=50&customColorList=DBE2FF,B5DEFF,C8E7FF,E6E6FA)
-<br><br>
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&fontAlign=center&fontAlignY=50&animation=blinking&desc=&customColorList=DBE2FF,B5DEFF,C8E7FF,E6E6FA&reversal=false&blur=true)
+
+<br>
 
   <img src="https://raw.githubusercontent.com/cheringring/cheringring/main/asset/flowers-petals.gif" width="95%">
   
