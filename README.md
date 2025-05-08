@@ -9,10 +9,8 @@
 <br>
 
 ## 💫 About Me
-- 🎀 Creative developer passionate about clean code
-- 🌱 Currently learning at 42Seoul
-- 💝 Love turning complex problems into elegant solutions
-- 🎨 Interested in both functionality and aesthetics
+
+??
 
 <br>
 
@@ -42,9 +40,8 @@
 
 
 ## 🌟 Projects
-- 📚 **42Seoul Projects**
-  - Libft: Custom C library implementation
-  - More coming soon...
+
+??
 
 <br>
 
