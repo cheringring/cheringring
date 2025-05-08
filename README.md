@@ -19,22 +19,35 @@
 <div align="center">
   
   ### 💻 Languages & Tools
-  ![TypeScript](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/zxvggzkz5lmxhwgrwssc.png)
-  ![Java](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/kxnxhg1cqg42dcxk4lex.png)
-  ![Python](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/zxvggzkz5lmxhwgrwssc.png)
-  ![HTML](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/qgdiv5ctkcneujidjuw1.png)
-  ![MySQL](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/gjqeaoktt0zlqpfewalm.png)
-  ![Spring](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/kh7kxsqd5y7pi0qrz7nx.png)
-  ![Linux](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/zadtxqqv5gm3RHE7WpKw.png)
-  ![Apache Tomcat](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/puvjgd8vqjf5kjzxkz8h.png)
-  ![Git](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/xf9bevlhmghc1bhi0f0l.png)
-  ![VSCode](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566915837/noticon/pdl5qhkqxk5mnxgrmcgm.png)
+  
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-99B433?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
   ### 🌈 Currently Learning
-  ![Flutter](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/yqkpq3zqcmwtjmzgxztz.png)
-  ![Flask](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/puvjgd8vqjf5kjzxkz8h.png)
+  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
+
 
 <br>
 
