@@ -25,6 +25,8 @@
 ## 💫 About Me
 </div>
 
+![image](https://github.com/user-attachments/assets/8b8c86a4-1d84-498f-b378-5f13c35dda5c)
+
 ```
 ### 🗂️ /home/cheringring
 
