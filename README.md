@@ -106,7 +106,7 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3>🛠️ 42 Projects</h3>
+        <h3> 42 Projects</h3>
         <a href="https://github.com/cheringring/42_Course">
           <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white"/>
         </a>
