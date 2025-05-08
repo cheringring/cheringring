@@ -6,23 +6,22 @@ on:
   workflow_dispatch:     # 수동 실행 가능
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # 명시적 권한 설정
+      contents: write    # 명시적인 쓰기 권한 부여
     steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3  # 최신 v3 버전 사용
+      - uses: Platane/snk@v3
+        id: snake-gif
         with:
-          github_user_name: cheringring
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: cheringring  # 자신의 GitHub 사용자명
+          svg_out_path: dist/github-snake.svg
+          gif_out_path: dist/github-snake.gif
       
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: output  # 이 브랜치에 결과물이 저장됨
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
