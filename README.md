@@ -5,15 +5,10 @@
 
   <br><br>
 
-  <pre>
-✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ
-</pre> 
+
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=cheringring's%20github&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=&descAlignY=51&descAlign=center&rotate=0&stroke=FFB0B0&strokeWidth=1)
  
-  <pre>
-✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ
-</pre>
 
 <br>
   <img src="https://raw.githubusercontent.com/cheringring/cheringring/main/asset/flowers-petals.gif" width="95%">
