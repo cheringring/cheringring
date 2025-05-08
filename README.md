@@ -22,7 +22,7 @@
 <br>
 
 
-## About Me ![42](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1669698602/noticon/sfo15betgslerudyhvzi.png)
+## About Me <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1669698602/noticon/sfo15betgslerudyhvzi.png" width="40" height="40" alt="42">
 
 ![image](https://github.com/user-attachments/assets/8b8c86a4-1d84-498f-b378-5f13c35dda5c)
 
