@@ -103,8 +103,8 @@
 ## Projects 
 
 
-### 42 Projects
-- [**🛠️ Libft**](https://github.com/cheringring/Libft) - C library implementation
+### [42 Projects] (https://github.com/cheringring/42_Course)
+- [**🛠️ Libft**](https://github.com/cheringring/42_Course/Libft) - C library implementation
   ![Progress](https://progress-bar.dev/100/?title=completed)
 
 <br>
