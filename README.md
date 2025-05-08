@@ -10,6 +10,7 @@
   
 </div>
 
+  <img src="https://media.tenor.com/26628738.gif" width="100%">
 <br>
 
 ## 💫 About Me
