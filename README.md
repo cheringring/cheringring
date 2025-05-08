@@ -125,6 +125,11 @@
 
 ## 💎 Let's Connect!
 
+<a href="https://velog.io/@사용자이름/포스트주소">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  📝 포스트 제목
+</a>
+
 <div align="center">
   
   <br>
