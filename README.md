@@ -59,21 +59,17 @@
 
 <br>
 
-## 🤝 Let's Connect!
+## 💎 Let's Connect!
 
 <div align="center">
   
-  [![GitHub](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/m4oad4rbf65fjszx0did.png)](https://github.com/cheringring)
+  ![SpringBoot](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/m4oad4rbf65fjzxkz8h.png)
   [![Velog](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919539/noticon/j2h9ud10ssbihscfhqws.png)](https://velog.io/@cheringring/posts)
   
   <br>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cheringring)](https://velog.io/@cheringring/posts) 
-  
-</div>
-
-<div align="center">
-  
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+  <a href="https://velog.io/@cheringring">
+    <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/>
+  </a>
   
 </div>
