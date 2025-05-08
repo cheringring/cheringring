@@ -1,7 +1,8 @@
 <div align="center">
 
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&fontAlign=center&fontAlignY=50&animation=blinking&desc=&customColorList=DBE2FF,B5DEFF,C8E7FF,E6E6FA&reversal=false&blur=true)
+ ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&fontAlign=center&fontAlignY=50&animation=twinkling&desc=&customColorList=DBE2FF,B5DEFF,C8E7FF,E6E6FA&blur=3)
+
 
 <br>
 
