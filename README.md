@@ -24,8 +24,19 @@
 
 ## 💫 About Me
 
-[??
-](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1669699657/noticon/a15oexdakj1rcqx29ul7.gif)
+```
+### 🗂️ /home/cheringring
+
+├── 📁 about_me/
+│   ├── 🎯 currently_learning: ["42 Cursus", "SW Pilot"]
+│   ├── 💡 interests: ["Problem Solving"]
+│   └── 🌱 growing_in: ["C", "C++" , "Embedded Systems Programming"]
+│
+└── 📁 hobbies/
+    ├── 🎬  Watching Movie
+    ├── 📺  Anime & Manga
+    └── 📚 Learning New Tech
+```
 
 <br>
 
