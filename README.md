@@ -1,7 +1,9 @@
 <div align="center">
 
   
- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=cheringring's%20github&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&theme=radical&customColorList=F7CFD8,E2D1F9,DDA0DD&blur=5)
+
+  ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&fontAlign=center&fontAlignY=50&animation=twinkling&desc=&customColorList=DBE2FF,B5DEFF,C8E7FF,E6E6FA&blur=3)
+
 
 
 <br>
