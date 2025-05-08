@@ -75,6 +75,11 @@
   <a href="https://velog.io/@cheringring">
     <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
+  
+  <a href="https://discordapp.com/users/chenoc">
+    <img src="https://img.shields.io/badge/Discord:_chenoc-E6E6FA?style=flat-square&logo=Discord&logoColor=5865F2"/>
+  </a>
+  
   </div>
 
 <div align="center">
