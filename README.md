@@ -48,6 +48,17 @@
 
 <br>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=cheringring&show_icons=true&theme=radical&hide_border=true&title_color=ff66c4&text_color=ffffff&icon_color=ff66c4&bg_color=282a36" alt="cheringring's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheringring&layout=compact&theme=radical&hide_border=true&title_color=ff66c4&text_color=ffffff&icon_color=ff66c4&bg_color=282a36&hide=jupyter%20notebook" alt="Top Languages" />
+
+</div>
+
+<br>
 
 ## 🌟 Projects
 
