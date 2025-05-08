@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/WVPjkkH.gif" width="100%">
+
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&animation=fadeIn&fontAlignY=50&customColorList=DBE2FF,B5DEFF,C8E7FF,E6E6FA)
 
