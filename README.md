@@ -3,14 +3,14 @@
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=cheringring's%20github&fontSize=70&animation=fadeIn&fontAlignY=50&customColorList=DBE2FF,B5DEFF,C8E7FF,E6E6FA)
 
-<img src="https://zzeung.github.io/assets/images/sakura.gif" width="100%">
-</p>
-  
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CFD8&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Creative+Developer+%F0%9F%8C%B8;Welcome+to+my+GitHub+%E2%9C%A8;Let's+grow+together+%F0%9F%8C%B1)](https://git.io/typing-svg)
   
 </div>
 
-  <img src="https://media.tenor.com/26628738.gif" width="100%">
+  <img src="https://c.tenor.com/2yq5k1q6wqYAAAAC/flowers-petals.gif" width="100%">
+</div>
+
 <br>
 
 ## 💫 About Me
