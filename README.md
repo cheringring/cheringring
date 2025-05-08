@@ -40,17 +40,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cheringring&show_icons=true&theme=omni)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheringring&layout=compact&theme=omni)
-  
-</div>
-
-<br>
 
 ## 🌟 Projects
 - 📚 **42Seoul Projects**
@@ -62,9 +51,6 @@
 ## 💎 Let's Connect!
 
 <div align="center">
-  
-  ![SpringBoot](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/m4oad4rbf65fjzxkz8h.png)
-  [![Velog](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919539/noticon/j2h9ud10ssbihscfhqws.png)](https://velog.io/@cheringring/posts)
   
   <br>
   
