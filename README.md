@@ -53,6 +53,11 @@
   
   ![GitHub](https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=9370DB)
   ![Git](https://img.shields.io/badge/Git-FFE4E1?style=for-the-badge&logo=git&logoColor=FF69B4)
+  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
   
   ### 🌈 Currently Learning
   
