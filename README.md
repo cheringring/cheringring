@@ -83,6 +83,6 @@
 
 <div align="center">
   
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=8E7DBE&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&customColorList=F7CFD8,F4F8D3,A6F1E0,73C7C7)
   
 </div>
