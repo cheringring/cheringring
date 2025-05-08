@@ -94,5 +94,5 @@
   </a>
   
   </div>
-
-![Snake animation](https://github.com/cheringring/cheringring/blob/output/github-snake.svg)
+  
+![snake gif](https://github.com/cheringring/cheringring/blob/output/github-contribution-grid-snake.svg)
