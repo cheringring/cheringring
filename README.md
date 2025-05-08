@@ -46,7 +46,7 @@
 <br>
 
 
-##  Tech Stack <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581488166/noticon/teg1ooxzhglorh6rk9hs.png" width="40" height="40" alt="42">
+##  Tech Stack <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1667082967/noticon/slcsuxbx6hniolbyqnuv.png" width="40" height="40" alt="42">
 
 <div align="center">
   
@@ -100,7 +100,7 @@
 <br>
 
 
-## Projects <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1667082967/noticon/slcsuxbx6hniolbyqnuv.png" width="40" height="40" alt="42">
+## Projects 
 
 ??
 
