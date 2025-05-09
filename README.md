@@ -115,7 +115,7 @@
       <td width="50%" align="center">
         <h3> ai-bootcamp </h3>
         <a href="[https://github.com/cheringring/ai-bootcamp](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581429554/noticon/uy3gxvbwzjuqtf3wi3dp.png)">
-          <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581429554/noticon/uy3gxvbwzjuqtf3wi3dp.png" width="20" height="20"/>
+          <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1740279520/noticon/xyw3fwb1weezfvsdcefq.gif" width="20" height="20"/>
         </a>
         <p>Semantic Kernel과 AI 오케스트레이션 실습</p>
       </td>
