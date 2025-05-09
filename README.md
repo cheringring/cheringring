@@ -106,18 +106,18 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3> 42 Projects</h3>
+        <h3>42 Projects</h3>
         <a href="https://github.com/cheringring/42_Course">
           <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white"/>
         </a>
-        <p>Learning computer science fundamentals at 42 </p>
+        <p style="height: 40px;">Learning computer science fundamentals at 42</p>
       </td>
       <td width="50%" align="center">
-        <h3> ai-bootcamp </h3>
+        <h3>ai-bootcamp</h3>
         <a href="https://github.com/cheringring/ai-bootcamp">
-          <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1740279520/noticon/xyw3fwb1weezfvsdcefq.gif" width="60" height="60"/>
+          <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1740279520/noticon/xyw3fwb1weezfvsdcefq.gif" width="40" height="40"/>
         </a>
-        <p>Semantic Kernel과 AI 오케스트레이션 실습</p>
+        <p style="height: 40px;">Semantic Kernel과 AI 오케스트레이션 실습</p>
       </td>
     </tr>
   </table>
