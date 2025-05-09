@@ -115,9 +115,9 @@
       <td width="50%" align="center">
         <h3> ai-bootcamp </h3>
         <a href="https://github.com/cheringring/ai-bootcamp">
-          <img src="??"/>
+          <img src="https://img.shields.io/badge/Semantic_Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
         </a>
-        <p>C library implementation</p>
+        <p>Semantic Kernel과 AI 오케스트레이션 실습</p>
       </td>
     </tr>
   </table>
