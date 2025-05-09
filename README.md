@@ -28,7 +28,7 @@
 
 </div>
 
-```
+<pre style="font-size: 16px; line-height: 1.5;">
 ### 🗂️ /home/cheringring
 
 ├── 📁 about_me/
@@ -40,7 +40,7 @@
     ├── 🎬  Watching Movie
     ├── 📺  Anime & Manga
     └── 📚 Learning New Tech
-```
+</pre>
 
 <div align="center">
 <br>
