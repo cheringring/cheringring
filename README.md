@@ -28,7 +28,7 @@
 
 </div>
 
-<pre style="font-size: 35px; line-height: 2.3;">
+<pre style="font-size: 60px; line-height: 3.0;">
 ### 🗂️ /home/cheringring
 
 ├── 📁 about_me/
