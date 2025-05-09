@@ -115,14 +115,13 @@
       <td width="50%" align="center">
         <h3> ai-bootcamp </h3>
         <a href="https://github.com/cheringring/ai-bootcamp">
-          <img src="https://img.shields.io/badge/Semantic_Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+          <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png" width="100" height="100"/>
         </a>
         <p>Semantic Kernel과 AI 오케스트레이션 실습</p>
       </td>
     </tr>
   </table>
 </div>
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cheringring)](https://velog.io/@cheringring)
 
 ## Let's Connect! <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1669699657/noticon/a15oexdakj1rcqx29ul7.gif" width="40" height="40" alt="42">
