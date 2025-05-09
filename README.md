@@ -114,14 +114,16 @@
       </td>
       <td width="50%" align="center">
         <h3> ai-bootcamp </h3>
-        <a href="[https://github.com/cheringring/ai-bootcamp](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581429554/noticon/uy3gxvbwzjuqtf3wi3dp.png)">
-          <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1740279520/noticon/xyw3fwb1weezfvsdcefq.gif" width="20" height="20"/>
+        <a href="https://github.com/cheringring/ai-bootcamp">
+          <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1740279520/noticon/xyw3fwb1weezfvsdcefq.gif" width="60" height="60"/>
         </a>
         <p>Semantic Kernel과 AI 오케스트레이션 실습</p>
       </td>
     </tr>
   </table>
 </div>
+
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cheringring)](https://velog.io/@cheringring)
 
 ## Let's Connect! <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1669699657/noticon/a15oexdakj1rcqx29ul7.gif" width="40" height="40" alt="42">
