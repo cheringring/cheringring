@@ -99,7 +99,6 @@
 
 <br>
 
-
 <h1 align="center">Projects</h1>
 
 <div align="center">
@@ -120,9 +119,24 @@
         <p style="height: 40px;">Semantic Kernel과 AI 오케스트레이션 실습</p>
       </td>
     </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>SW Pilot Curriculum</h3>
+        <a href="https://github.com/Mobility3/curriculum/tree/curriculum/cheeun">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <p style="height: 40px;">SW 파일럿 과정 학습 기록</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>[예비 프로젝트]</h3>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Coming_Soon-gray?style=for-the-badge"/>
+        </a>
+        <p style="height: 40px;">추후 프로젝트가 추가될 예정입니다</p>
+      </td>
+    </tr>
   </table>
 </div>
-
 
 ## Let's Connect! <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1669699657/noticon/a15oexdakj1rcqx29ul7.gif" width="40" height="40" alt="42">
 
