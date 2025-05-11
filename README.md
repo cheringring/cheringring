@@ -122,7 +122,7 @@
     <tr>
       <td width="50%" align="center">
         <h3>SW Pilot Curriculum</h3>
-        <a href="https://github.com/Mobility3/curriculum/tree/curriculum/cheeun">
+        <a href="https://github.com/cheringring/curriculum">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <p style="height: 40px;">SW 파일럿 과정 학습 기록</p>
