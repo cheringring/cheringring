@@ -132,7 +132,7 @@
         <a href="https://github.com/cheringring/HowToUse_Git">
           <img src="https://img.shields.io/badge/Coming_Soon-gray?style=for-the-badge"/>
         </a>
-        <p style="height: 40px;">GitHub Actions를 사용하여 Velog의 특정 시리즈 포스트들을 자동으로 GitHub 저장소에 백업합니다.</p>
+        <p style="height: 40px;">GitHub Actions를 사용하여 Velog의 Github 시리즈 포스트들을 자동으로 저장소에 백업합니다.</p>
       </td>
     </tr>
   </table>
