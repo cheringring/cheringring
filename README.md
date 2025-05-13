@@ -67,6 +67,8 @@
   
   ![GitHub](https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=9370DB)
   ![Git](https://img.shields.io/badge/Git-FFE4E1?style=for-the-badge&logo=git&logoColor=FF69B4)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
   ![Linux](https://img.shields.io/badge/Linux-FFFACD?style=for-the-badge&logo=linux&logoColor=DEB887)
   ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-FAFAD2?style=for-the-badge&logo=apache-tomcat&logoColor=DEB887)
@@ -130,7 +132,7 @@
       <td width="50%" align="center">
         <h3> GitHub Actions + GraphQL API를 이용한 동기화 </h3>
         <a href="https://github.com/cheringring/HowToUse_Git">
-          <img src="https://img.shields.io/badge/Coming_Soon-gray?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
         </a>
         <p style="height: 40px;">GitHub Actions를 사용하여 Velog의 Github 시리즈 포스트들을 자동으로 저장소에 백업합니다.</p>
       </td>
