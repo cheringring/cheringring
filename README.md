@@ -128,7 +128,7 @@
         <p style="height: 40px;">SW 파일럿 과정 학습 기록</p>
       </td>
       <td width="50%" align="center">
-        <h3> GitHub 사용법 </h3>
+        <h3> GitHub Actions + GraphQL API를 이용한 동기화 </h3>
         <a href="https://github.com/cheringring/HowToUse_Git">
           <img src="https://img.shields.io/badge/Coming_Soon-gray?style=for-the-badge"/>
         </a>
