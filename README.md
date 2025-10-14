@@ -32,9 +32,9 @@
 ### 🗂️ /home/cheringring
 
 ├── 📁 about_me/
-│   ├── 🎯 currently_learning: ["42 Cursus", "SW Pilot"]
+│   ├── 🎯 currently_learning: ["42 Cursus", "Server", "Cloud", "Linux"]
 │   ├── 💡 interests: ["Problem Solving"]
-│   └── 🌱 growing_in: ["C", "C++" , "Embedded Systems Programming"]
+│   └── 🌱 growing_in: ["Shell Script"]
 │
 └── 📁 hobbies/
     ├── 🎬  Watching Movie
