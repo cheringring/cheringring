@@ -28,9 +28,9 @@
 ### 🗂️ /home/cheringring
 
 ├── 📁 about_me/
-│   ├── 🎯 currently_learning: ["42 Cursus", "Server", "Cloud", "Linux"]
+│   ├── 🎯 currently_learning: ["42 Cursus", "Server", "Cloud", "Linux","Network"]
 │   ├── 💡 interests: ["Problem Solving"]
-│   └── 🌱 growing_in: ["Shell Script"]
+│   └── 🌱 growing_in: ["Shell Script","AWS"]
 │
 └── 📁 hobbies/
     ├── 🎬  Watching Movie
