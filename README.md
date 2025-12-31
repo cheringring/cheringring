@@ -10,22 +10,17 @@
 <!--하단레이스-->
   <img src="https://raw.githubusercontent.com/cheringring/cheringring/main/asset/pngwing.com.png" width="95%">
   
-<!-- 꽃잎-->
-  <img src="https://raw.githubusercontent.com/cheringring/cheringring/main/asset/flowers-petals.gif" width="95%">
-  
   
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CFD8&center=true&vCenter=true&width=600&lines=Hello!+Welcome+to+my+GitHub.+%F0%9F%8C%B1;I'm+a+developer+who+wants+to+grow+together.+%F0%9F%92%99;Enjoy+your+stay!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CFD8&center=true&vCenter=true&width=600&lines=환영해요!;제+깃허브에+오신걸+환영합니다!)](https://git.io/typing-svg)
 </div>
 
 <br>
 
 
 ## About Me <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1669698602/noticon/sfo15betgslerudyhvzi.png" width="40" height="40" alt="42">
-
-![image](https://github.com/user-attachments/assets/8b8c86a4-1d84-498f-b378-5f13c35dda5c)
 
 </div>
 
@@ -69,9 +64,10 @@
   ![GitHub](https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=9370DB)
   ![Git](https://img.shields.io/badge/Git-FFE4E1?style=for-the-badge&logo=git&logoColor=FF69B4)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
   ![Linux](https://img.shields.io/badge/Linux-FFFACD?style=for-the-badge&logo=linux&logoColor=DEB887)
+  ![Bash](https://img.shields.io/badge/Bash-F0F8FF?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+  ![Shell Script](https://img.shields.io/badge/Shell_Script-FFE4E1?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
   ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-FAFAD2?style=for-the-badge&logo=apache-tomcat&logoColor=DEB887)
   
   ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -79,11 +75,6 @@
 ![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-  
-  ### 🌈 Currently Learning
-  
-  ![Flutter](https://img.shields.io/badge/Flutter-E0FFFF?style=for-the-badge&logo=flutter&logoColor=40E0D0)
-  ![Flask](https://img.shields.io/badge/Flask-F0F8FF?style=for-the-badge&logo=flask&logoColor=4169E1)
 
 </div>
 
